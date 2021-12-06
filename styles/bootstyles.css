@@ -1,0 +1,34 @@
+.nav_linx{
+    float:right;
+}
+
+p{
+    font-size: 40px;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+
+.my_header{
+    height:250px;
+    width:100vw;
+    background-image: url("https://www.mountainhikingholidays.com/wp-content/uploads/2016/12/mhh_home_slide_image_flowers_abo_pralongia_16_1005x363.jpg");
+    
+}
+
+.mainbody {
+    width:70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.footer{
+    width:70vw;
+    margin-left: auto;
+    margin-right: auto;
+    float:right
+}
+
+body{
+    background-color: antiquewhite
+}
